@@ -1,0 +1,9 @@
+So basically we're looking for a stock that has broken or about to break the trigger point. Based on the action and its timing around the point, we gotta decide whether to enter the position and what risk to allocate.
+The volume has to be at least somehow reasonable to trade BMO and AMC.
+
+1. If it breaks and perfectly retests the trigger, then enter on 1-2-3min candle b/o with 1 additional re-entry (if it sweeps you out, but still holding).
+    1.1 If there's also VWAP (AWAP if AMC) on the trigger, frontrun it with small size if possible.
+2. What if it's dancing around the trigger?
+3. What if the price doesn't respect the trigger breaks above/under the trigger? How do you differentiate it from dancing? Also, try to categorize the action.
+4. What if it's bounces off the trigger?
+5. What if it borke the trigger so hard that the retest would be too wide or unrealistic?
