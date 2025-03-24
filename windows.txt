@@ -5,5 +5,11 @@ The volume has to be at least somehow reasonable to trade BMO and AMC.
     1.1 If there's also VWAP (AWAP if AMC) on the trigger, frontrun it with small size if possible.
 2. What if it's dancing around the trigger?
 3. What if the price doesn't respect the trigger breaks above/under the trigger? How do you differentiate it from dancing? Also, try to categorize the action.
-4. What if it's bounces off the trigger?
+4. What if it's bounced off the trigger?
 5. What if it borke the trigger so hard that the retest would be too wide or unrealistic?
+
+What if it feels like the pullback taking too much time? What's the nature of the pullback?
+What if it has pullbacked nor that close to the trigger nor to a reasonable round number?
+How to rate trigger's quality?
+What's the plan during the regular session?
+What about 2days?
