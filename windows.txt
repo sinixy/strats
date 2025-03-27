@@ -20,4 +20,5 @@ What about 2days?
 3. ACN: well this one was trading at really light volume, but you could argue that 2/3min cndl bo is the setup here after the initial move. Didn't retested the window perfectly tho. It was trading just fking between two major levels before going. There was also a clearer opportunity at 11:30; I think these should be 5min cndl bo but 2/3 min also worked.
 4. BKKT: The pullback was too fast for anything nire than 1min, but you could also argue that you should take after first signs of pullback ater such a perfect trigger retest. Didn't work tho. Open vdrk was cool too: 1min cndl bo was the way; didnt work properly as well tho XD
 5. AFRM: the mfkng dancing around the trigger. Any 1/2/3 cndl bo would've decimated you. VWAP as well (even tho it was looking like it's holding it). In this case it decided to retest the MA200, which I guess should be considered as a trigger as well. The pullback was rather deep (60%). VWAP after 11 didn't work. This thing just done a huge ass reversal - no wonder the pullback was so deep.
-
+6. KSS: could've made smthing really fast on the first cndl bo with no decent retest
+7. HSAI: wtf is this reversal and a flat top breakout kind of momentum at 10 AM lol. VWAP around 11 AM also worked.
