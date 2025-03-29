@@ -14,6 +14,21 @@ How to rate trigger's quality?
 What's the plan during the regular session?
 What about 2days?
 
+Init-react:
+total: 33
+worked: 29
+worked2r+:
+    1. FLNC - 3 (with the last one on the next day)
+    2. UPST - 2 (the mfking vdrk)
+    3. CELF - 2 (little mfucker AMC)
+    4. ZM - 2 (provided that you would enter at 9 and get shaken out a little by the vdrk)
+    5. LUNR - 2 (provided that you take it immediatly after the init move)
+    6. KSS - 3 (really annoying)
+    7. AFRM - 2 (provided that you consider MA200 as a trigger)
+Immediatly after the init move:
+total: 8
+worked: 5
+worked2r+: 1
 
 1. KBH: vdrk with retest + 1min cndl bo looks nice. Timing: open
 2. JHX: VWAP is kinda the setup, but it was a lotto (no triggerr close by - just hanging in the middle of the window)
