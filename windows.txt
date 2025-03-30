@@ -30,6 +30,18 @@ total: 8
 worked: 5
 worked2r+: 1
 
+Afternoon retest:
+total: 3
+worked: 3
+worked2r: 1
+
+2day retest:
+total: 2
+worked:
+    1. JHX - OPG2Day
+    2. ANF - VDRK (OPG was kinda lowish)
+    
+
 1. KBH: vdrk with retest + 1min cndl bo looks nice. Timing: open
 2. JHX: VWAP is kinda the setup, but it was a lotto (no triggerr close by - just hanging in the middle of the window)
 3. ACN: well this one was trading at really light volume, but you could argue that 2/3min cndl bo is the setup here after the initial move. Didn't retested the window perfectly tho. It was trading just fking between two major levels before going. There was also a clearer opportunity at 11:30; I think these should be 5min cndl bo but 2/3 min also worked.

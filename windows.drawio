@@ -1,13 +1,13 @@
 <mxfile host="65bd71144e">
     <diagram id="qkrTleqtx85g-oGapfhk" name="Page-1">
-        <mxGraphModel dx="1798" dy="1756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="1988" dy="1887" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
                 <mxCell id="4" value="" style="edgeStyle=none;html=1;" parent="1" source="2" target="3" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="19" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2" target="15">
+                <mxCell id="19" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="2" target="15" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="2" value="Trigger break" style="whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=light-dark(#FFFFFF,#FFFCFC);strokeColor=#006EAF;fontStyle=1;fontSize=14;" parent="1" vertex="1">
@@ -19,10 +19,10 @@
                 <mxCell id="3" value="&lt;u&gt;Crystal clear&lt;/u&gt; retest of the trigger. Slight over/under shots are fine" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="80" y="160" width="140" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="8" value="Entry on 1min cndl bo. If too wide - idk, try smth reasonable on seconds" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                <mxCell id="8" value="Entry on 1min cndl bo for fast (&amp;lt;10min) pb, 3min else." style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="70" y="260" width="160" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="10" value="&lt;font style=&quot;&quot;&gt;Very high prob:&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;&quot;&gt;1. 29/33 worked&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;&quot;&gt;2. 7/29 required multiple&amp;nbsp;&lt;span style=&quot;background-color: transparent;&quot;&gt;entries&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;&quot;&gt;2.1 5/7 worked on the 2nd entry&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;&quot;&gt;3. 5/8 went&amp;nbsp;&lt;span style=&quot;background-color: transparent;&quot;&gt;immediately&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;after&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font style=&quot;&quot;&gt;init move&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=light-dark(#000000,#FFFFFF);" parent="1" vertex="1">
+                <mxCell id="10" value="&lt;font style=&quot;&quot;&gt;Very high prob:&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;&quot;&gt;1. 30/34 worked&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;&quot;&gt;2. 8/30 required multiple&amp;nbsp;&lt;span style=&quot;background-color: transparent;&quot;&gt;entries&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;&quot;&gt;2.1 5/8 worked on the 2nd entry&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;&quot;&gt;3. 5/8 went&amp;nbsp;&lt;span style=&quot;background-color: transparent;&quot;&gt;immediately&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;after&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font style=&quot;&quot;&gt;init move&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=light-dark(#000000,#FFFFFF);" parent="1" vertex="1">
                     <mxGeometry x="-145" y="155" width="190" height="100" as="geometry"/>
                 </mxCell>
                 <mxCell id="11" value="" style="endArrow=classic;html=1;exitX=0.476;exitY=1.016;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="10" target="8" edge="1">
@@ -40,18 +40,18 @@
                 <mxCell id="13" value="And it doesn&#39;t matter&lt;div&gt;what it did before&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
                     <mxGeometry x="-85" y="60" width="130" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="20" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="15" target="3">
+                <mxCell id="20" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="15" target="3" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="21" value="Just wait" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="20">
+                <mxCell id="21" value="Just wait" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="20" vertex="1" connectable="0">
                     <mxGeometry x="-0.0096" relative="1" as="geometry">
                         <mxPoint as="offset"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="24" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="15" target="23">
+                <mxCell id="24" value="" style="edgeStyle=none;html=1;" parent="1" source="15" target="23" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="25" value="Or" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="24">
+                <mxCell id="25" value="Or" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="24" vertex="1" connectable="0">
                     <mxGeometry x="-0.1456" y="1" relative="1" as="geometry">
                         <mxPoint x="3" y="1" as="offset"/>
                     </mxGeometry>
@@ -59,56 +59,70 @@
                 <mxCell id="15" value="Dancing" style="whiteSpace=wrap;html=1;fontSize=12;fontStyle=0;" parent="1" vertex="1">
                     <mxGeometry x="260" y="60" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="23" value="Give it at least 30min to show signs for cont" style="whiteSpace=wrap;html=1;fontStyle=0;" vertex="1" parent="1">
+                <mxCell id="23" value="Give it at least 30min to show signs for cont" style="whiteSpace=wrap;html=1;fontStyle=0;" parent="1" vertex="1">
                     <mxGeometry x="425" y="60" width="130" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="26" value="1/2 of retest risk" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                <mxCell id="26" value="1/2 of retest risk" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
                     <mxGeometry x="370" y="170" width="110" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="27" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.489;exitY=0.036;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="26" target="23">
+                <mxCell id="27" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.489;exitY=0.036;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="26" target="23" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="410" y="180" as="sourcePoint"/>
                         <mxPoint x="460" y="130" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="30" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="29" target="2">
+                <mxCell id="30" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="29" target="2" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="31" value="Just wait or add here" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="30">
+                <mxCell id="31" value="Just wait or add here" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="30" vertex="1" connectable="0">
                     <mxGeometry x="-0.1825" relative="1" as="geometry">
                         <mxPoint as="offset"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="32" style="edgeStyle=none;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="29" target="33">
+                <mxCell id="32" style="edgeStyle=none;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="29" target="33" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="149.90476190476193" y="-100" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="34" value="Wait at least 30min" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="32">
+                <mxCell id="34" value="You can afford&lt;div&gt;a wide stop&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="32" vertex="1" connectable="0">
                     <mxGeometry x="-0.0286" y="1" relative="1" as="geometry">
-                        <mxPoint as="offset"/>
+                        <mxPoint x="-2" as="offset"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="29" value="Trigger bounce" style="whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=#B20000;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+                <mxCell id="44" style="edgeStyle=none;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="29" target="45">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="150" y="-200" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="29" value="Trigger bounce" style="whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=#B20000;fontStyle=1;fontSize=14;" parent="1" vertex="1">
                     <mxGeometry x="90" y="-60" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="33" value="Enter off levels and take profits fast" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-                    <mxGeometry x="90" y="-170" width="120" height="60" as="geometry"/>
+                <mxCell id="33" value="Enter on signs for cont (LLs, HHs)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="-49" y="-180" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="35" value="Watch the afternoon trigger retest" style="whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" vertex="1" parent="1">
-                    <mxGeometry x="260" y="-60" width="120" height="60" as="geometry"/>
+                <mxCell id="35" value="Watch the afternoon trigger retest" style="whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" parent="1" vertex="1">
+                    <mxGeometry x="430" y="-50" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="36" value="Watch the 2day trigger retest (esp opg2day/vdrk)" style="whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" vertex="1" parent="1">
+                <mxCell id="36" value="Watch the 2day trigger retest (esp opg2day/vdrk)" style="whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" parent="1" vertex="1">
                     <mxGeometry x="260" y="-170" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="37" value="Watch the 4am vdrk" style="whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" vertex="1" parent="1">
-                    <mxGeometry x="430" y="-60" width="120" height="60" as="geometry"/>
+                <mxCell id="37" value="Watch the 4am vdrk" style="whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" parent="1" vertex="1">
+                    <mxGeometry x="260" y="-50" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="41" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="38" target="33">
+                <mxCell id="45" value="Enter off levels" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="90" y="-260" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="47" value="Better to take a loss than miss it" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="240" y="275" width="190" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="50" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="48" target="49">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="38" value="Consider market sentiment" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-                    <mxGeometry x="-30" y="-180" width="60" height="30" as="geometry"/>
+                <mxCell id="48" value="3 stairsteps" style="whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;fontSize=14;fontStyle=1" vertex="1" parent="1">
+                    <mxGeometry x="-265" y="-80" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="49" value="Assume freighttrain" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="-265" y="20" width="120" height="60" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
