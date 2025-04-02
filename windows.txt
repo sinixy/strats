@@ -30,10 +30,9 @@ total: 8
 worked: 5
 worked2r+: 1
 
-Afternoon retest:
-total: 3
-worked: 3
-worked2r: 1
+Naive Afternoon Retest: (last - BILL)
+total: 14
+worked: 10
 
 2day retest:
 total: 2
